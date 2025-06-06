@@ -82,10 +82,17 @@ Delhi and Hyderabad demonstrate high balance retention.
 
 SBI Bank exhibits consistent monthly transactions with healthy balance trends.
 
-Users prefer mobile devices and younger age groups contribute the highest volume.![Upi Transaction  (7)](https://github.com/user-attachments/assets/be1910ab-4ff3-474c-8ccc-32d057504241)
-![Upi Transaction  (6)](https://github.com/user-attachments/assets/6e4f7e8d-b2bf-45d2-ac6a-f2eaa72c4742)
-![Upi Transaction  (5)](https://github.com/user-attachments/assets/4fbfb34f-a110-4203-a849-7f4c9cd0579f)
-![Upi Transaction  (4)](https://github.com/user-attachments/assets/26651064-7e1b-4e29-b79e-297da701f35e)
-![Upi Transaction  (3)](https://github.com/user-attachments/assets/be82c85a-2479-4f75-ac44-e9bb5669b9fa)
-![Upi Transaction  (2)](https://github.com/user-attachments/assets/35c9d5a2-db6f-4f2b-b2fc-6c0a9275b3b6)
-![Upi Transaction  (1)](https://github.com/user-attachments/assets/befffda2-ce7a-4be1-ac61-7d6ea7d954b4)
+![Upi Transaction  (1)](https://github.com/user-attachments/assets/00ca64fa-0224-4078-9a45-72bc404e8600)
+![Upi Transaction  (2)](https://github.com/user-attachments/assets/4f4ff68f-20a5-4d4d-b4b9-82ec7802a253)
+![Upi Transaction  (3)](https://github.com/user-attachments/assets/826f3ece-9439-4212-b9af-696eec3cbb9b)
+![Upi Transaction  (4)](https://github.com/user-attachments/assets/99eda7dd-6bf7-4dc9-afc2-549d2ef62407)
+![Upi Transaction  (5)](https://github.com/user-attachments/assets/fe324e48-f034-4805-ac89-f14ec41b32fd)
+![Upi Transaction  (6)](https://github.com/user-attachments/assets/993386f7-de57-4cd4-a1be-d7f6188f89f7)
+![Upi Transaction  (7)](https://github.com/user-attachments/assets/32e237a9-e526-4839-9bd6-f965e7974321)
+
+
+
+
+
+
+
