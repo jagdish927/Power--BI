@@ -91,7 +91,47 @@ SBI Bank exhibits consistent monthly transactions with healthy balance trends.
 ![Upi Transaction  (7)](https://github.com/user-attachments/assets/32e237a9-e526-4839-9bd6-f965e7974321)
 
 
+☕ Coffee Sales Analysis Dashboard
 
+
+![Coffee Sales Analysis Dashboard](https://github.com/user-attachments/assets/15417948-1c02-4171-a6f0-7ff662250b59)
+
+This project presents an interactive and visually rich Power BI dashboard that analyzes sales data for a coffee shop chain. It provides insights into total sales, order volume, quantity sold, daily trends, and product performance across different categories and store locations.
+
+🔍 Overview
+The dashboard allows users to explore key metrics through:
+
+Date filters (Month/Year slicer)
+
+Total Sales, Orders & Quantity KPIs
+
+Sales trends over time
+
+Performance by weekday vs. weekend
+
+Sales by store locations
+
+Top-performing product categories
+
+Detailed category-wise sales breakdown
+
+📊 Key Features
+📅 Calendar heatmap for monthly date distribution
+
+📈 Line and bar charts for daily and trend analytics
+
+🧁 Product category segmentation (Coffee, Tea, Bakery, Chocolate, etc.)
+
+🏪 Store-wise comparison (Austin, New Hampshire, etc.)
+
+🧠 Built-in filters for enhanced interactivity
+
+⚒️ Tools Used
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Power Query for data transformation
 
 
 
